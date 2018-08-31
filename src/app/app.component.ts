@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+//import {DatepickerOverviewExample} from '../components/datepicker-overview-example';
+import {DatepickerOverviewExample} from './components/datepicker-overview-example';
 
 @Component({
   selector: 'app-root',

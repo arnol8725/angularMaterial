@@ -1,0 +1,6 @@
+.mat-dialog-actions  {
+    padding: 12px 0;
+ 	display: block;
+    flex-wrap: wrap;
+    margin-bottom: -24px;
+}
